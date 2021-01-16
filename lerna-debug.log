@@ -1,8 +1,6 @@
-42 error Error: Command failed: git push --follow-tags --no-verify --atomic origin master
-42 error Logon failed, use ctrl+c to cancel basic credential prompt.
-42 error bash: /dev/tty: No such device or address
-42 error error: failed to execute prompt script (exit code 1)
-42 error fatal: could not read Username for 'https://github.com': No such file or directory
+42 error Error: Command failed: git tag v1.0.1 -m v1.0.1
+42 error fatal: tag 'v1.0.1' already exists
 42 error
 42 error     at makeError (G:\sue-auto-front\sue-cli-dev\node_modules\execa\index.js:174:9)
 42 error     at G:\sue-auto-front\sue-cli-dev\node_modules\execa\index.js:278:16
+42 error     at processTicksAndRejections (internal/process/task_queues.js:93:5)
