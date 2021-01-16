@@ -5,6 +5,9 @@
   "author": "GEKSS5289 <496966859@qq.com>",
   "homepage": "",
   "license": "ISC",
+  "bin":{
+    "sue-cli-dev":"bin/index.js"
+  },
   "main": "lib/core.js",
   "directories": {
     "lib": "lib",
