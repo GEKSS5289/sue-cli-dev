@@ -1,0 +1,22 @@
+{
+  "name": "@sue-cli-dev/core",
+  "version": "1.0.0",
+  "description": "sue-cli-dev core",
+  "author": "GEKSS5289 <496966859@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from core\""
+  },
+  "dependencies": {
+    "@imooc-cli/utils": "^1.1.1"
+  }
+}
