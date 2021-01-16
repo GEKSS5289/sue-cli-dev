@@ -1,3 +1,3 @@
 #! /usr/bin/env node
 
-console.log('hello sue-clsi')
+console.log('hello sue-cls i')
